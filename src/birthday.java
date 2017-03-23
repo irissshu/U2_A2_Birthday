@@ -17,6 +17,7 @@ public class birthday extends javax.swing.JFrame {
      */
     public birthday() {
         initComponents();
+        getContentPane().setBackground(Color.pink);
     }
 
     /**
